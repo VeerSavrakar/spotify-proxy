@@ -1,1 +1,4 @@
-spotify_api_key ="ONc2nYP9uVfh3oOIWm19WPvSunsjjtZ8X3s674ca4pvQ3vHfD1YpOX-wI_BCGImN"
+spotify_api_key ="// mention your own api key's by run command on cli"
+
+# command:
+//"docker run --rm -it -p 27228:27228 --env-file ./.env ghcr.io/conradludgate/spotify-auth-proxy"
